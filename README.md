@@ -12,7 +12,7 @@
 
 *MENTOR* : NEELA SANTOSH
 
-#DESCRIPTION OF THE PROJECT
+# DESCRIPTION OF THE PROJECT
 
 This project is a simple and functional speech-to-text converter built using Python. Its main job is to take an audio file—specifically a .wav file—and turn the spoken words in it into written text. It uses a Python library called speech_recognition, which makes working with audio and speech data easy and efficient.
 
